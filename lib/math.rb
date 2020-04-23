@@ -1,5 +1,6 @@
 def addition(num1, num2)
-
+  solution = Math.add(num1, num2)
+  solution
 end
 
 def subtraction(num1, num2)
